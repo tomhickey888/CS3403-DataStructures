@@ -1,0 +1,4 @@
+﻿  frequencyCounter.cpp
+C:\Users\tomhi\OneDrive\Desktop\CS3403 - Data Structures\HW5\frequencyCounter\frequencyCounter.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tomhi\OneDrive\Desktop\CS3403 - Data Structures\HW5\frequencyCounter\Header.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  frequencyCounter.vcxproj -> C:\Users\tomhi\OneDrive\Desktop\CS3403 - Data Structures\HW5\frequencyCounter\Debug\frequencyCounter.exe

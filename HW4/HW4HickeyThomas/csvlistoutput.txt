@@ -1,0 +1,89 @@
+Merged and Sorted Files:
+Team 1		Team 2		Score 1		Score 2		
+Bulls		Celtics		105		116
+Bulls		Nets		116		111
+Celtics		Nets		105		101
+Celtics		Heat		116		87
+Heat		Magic		116		105
+Heat		Nuggets		99		124
+Hornets		Thunder		96		121
+Hornets		Magic		130		105
+Jazz		Nuggets		116		109
+Jazz		Knicks		99		101
+Kings		Hornets		96		87
+Kings		Thunder		130		132
+Knicks		Kings		105		109
+Knicks		Spurs		124		87
+Lakers		Rockets		132		125
+Lakers		Pistons		117		121
+Magic		Pistons		132		125
+Magic		Bulls		117		121
+Nets		Knicks		105		101
+Nets		Celtics		116		109
+Nuggets		Lakers		96		102
+Nuggets		Rockets		119		117
+Pistons		Heat		105		101
+Pistons		Kings		124		125
+Rockets		Spurs		96		102
+Rockets		Lakers		119		117
+Spurs		Bulls		124		87
+Spurs		Jazz		107		109
+Thunder		Jazz		124		131
+Thunder		Hornets		107		98
+
+Highest Scoring Team:	Thunder		484 points
+
+Team With Most Wins:	Celtics		3 wins
+Tie for first!
+Tied for Most Wins:	Jazz		3 wins
+Tie for first!
+Tied for Most Wins:	Kings		3 wins
+Tie for first!
+Tied for Most Wins:	Thunder		3 wins
+
+Lowest Scoring Team:	Heat		403 points
+
+Team With Least Wins:	Rockets		1 wins
+Tie for last!
+Tied for Least Wins:	Magic		1 wins
+Tie for last!
+Tied for Least Wins:	Hornets		1 wins
+Tie for last!
+Tied for Least Wins:	Heat		1 wins
+
+Points scored for each team
+Team	Points
+Thunder	484
+Pistons	475
+Lakers	468
+Kings	460
+Magic	459
+Rockets	457
+Jazz	455
+Nuggets	448
+Celtics	446
+Nets	433
+Knicks	431
+Bulls	429
+Spurs	420
+Hornets	411
+Heat	403
+
+Games won for each team
+Team	Wins
+Celtics	3
+Jazz	3
+Kings	3
+Thunder	3
+Bulls	2
+Knicks	2
+Lakers	2
+Nets	2
+Nuggets	2
+Pistons	2
+Spurs	2
+Heat	1
+Hornets	1
+Magic	1
+Rockets	1
+

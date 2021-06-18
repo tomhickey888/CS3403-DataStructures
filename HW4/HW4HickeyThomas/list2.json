@@ -1,0 +1,71 @@
+{
+  "TeamScore0": {
+    "team1": "Hornets",
+    "team2": "Thunder",
+    "score1": "96",
+    "score2": "121"
+  },
+
+  "TeamScore1": {
+    "team1": "Hornets",
+    "team2": "Magic",
+    "score1": "130",
+    "score2": "105"
+  },
+
+  "TeamScore2": {
+    "team1": "Jazz",
+    "team2": "Nuggets",
+    "score1": "116",
+    "score2": "109"
+  },
+
+  "TeamScore3": {
+    "team1": "Jazz",
+    "team2": "Knicks",
+    "score1": "99",
+    "score2": "101"
+  },
+
+  "TeamScore4": {
+    "team1": "Bulls",
+    "team2": "Celtics",
+    "score1": "105",
+    "score2": "116"
+  },
+
+  "TeamScore5": {
+    "team1": "Bulls",
+    "team2": "Nets",
+    "score1": "116",
+    "score2": "111"
+  },
+
+  "TeamScore6": {
+    "team1": "Pistons",
+    "team2": "Heat",
+    "score1": "105",
+    "score2": "101"
+  },
+
+  "TeamScore7": {
+    "team1": "Pistons",
+    "team2": "Kings",
+    "score1": "124",
+    "score2": "125"
+  },
+
+  "TeamScore8": {
+    "team1": "Rockets",
+    "team2": "Spurs",
+    "score1": "96",
+    "score2": "102"
+  },
+
+  "TeamScore9": {
+    "team1": "Rockets",
+    "team2": "Lakers",
+    "score1": "119",
+    "score2": "117"
+  }
+}

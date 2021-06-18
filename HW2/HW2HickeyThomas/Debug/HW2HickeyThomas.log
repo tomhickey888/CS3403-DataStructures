@@ -1,0 +1,3 @@
+﻿  hw2HickeyThomas.cpp
+C:\Users\tomhi\OneDrive\Desktop\CS3403 - Data Structures\HW2\HW2HickeyThomas\ListNode.H(76,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HW2HickeyThomas.vcxproj -> C:\Users\tomhi\OneDrive\Desktop\CS3403 - Data Structures\HW2\HW2HickeyThomas\Debug\HW2HickeyThomas.exe

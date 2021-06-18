@@ -1,0 +1,275 @@
+Cust name: Tom Hickey
+Balance: $150
+Transaction: $50 Deposit
+Arrival time: 9
+Service time: 10
+Wait time: 1
+
+Cust name: Jack Sprat
+Balance: $75
+Transaction: $25 Withdrawal
+Arrival time: 14
+Service time: 16
+Wait time: 2
+
+Cust name: Sarah Hickey
+Balance: $285
+Transaction: $35 Deposit
+Arrival time: 20
+Service time: 21
+Wait time: 1
+
+Cust name: Lola Hickey
+Balance: $35
+Transaction: $15 Withdrawal
+Arrival time: 30
+Service time: 32
+Wait time: 2
+
+Cust name: Toby Hickey
+Balance: $70
+Transaction: $45 Deposit
+Arrival time: 39
+Service time: 43
+Wait time: 4
+
+Cust name: Zoe Hickey
+Balance: $300
+Transaction: $100 Withdrawal
+Arrival time: 49
+Service time: 52
+Wait time: 3
+
+Cust name: Meiko Hickey
+Balance: $1200
+Transaction: $400 Deposit
+Arrival time: 59
+Service time: 62
+Wait time: 3
+
+Cust name: Jim Franklin
+Balance: $1025
+Transaction: $125 Withdrawal
+Arrival time: 66
+Service time: 69
+Wait time: 3
+
+Cust name: Natalie Franklin
+Balance: $17575
+Transaction: $75 Deposit
+Arrival time: 68
+Service time: 70
+Wait time: 2
+
+Cust name: Christopher Franklin
+Balance: $920
+Transaction: $80 Withdrawal
+Arrival time: 69
+Service time: 70
+Wait time: 1
+
+Cust name: Joshua Franklin
+Balance: $4620
+Transaction: $120 Deposit
+Arrival time: 74
+Service time: 74
+Wait time: 0
+
+Cust name: Karen Jensen
+Balance: $1125
+Transaction: $75 Withdrawal
+Arrival time: 84
+Service time: 88
+Wait time: 4
+
+Cust name: William Jensen
+Balance: $1275
+Transaction: $75 Deposit
+Arrival time: 87
+Service time: 88
+Wait time: 1
+
+Cust name: Anthony Hickey
+Balance: $124550
+Transaction: $450 Withdrawal
+Arrival time: 96
+Service time: 98
+Wait time: 2
+
+Cust name: JoAnn Bigby
+Balance: $143120
+Transaction: $120 Deposit
+Arrival time: 105
+Service time: 106
+Wait time: 1
+
+Cust name: Dalton Bigby
+Balance: $142670
+Transaction: $330 Withdrawal
+Arrival time: 108
+Service time: 108
+Wait time: 0
+
+Cust name: Joseph Smith
+Balance: $170
+Transaction: $125 Deposit
+Arrival time: 113
+Service time: 114
+Wait time: 1
+
+Cust name: Mohammad Ali
+Balance: $1034.77
+Transaction: $65.23 Withdrawal
+Arrival time: 116
+Service time: 117
+Wait time: 1
+
+Cust name: Conrad Hawkins
+Balance: $18465.7
+Transaction: $73.29 Deposit
+Arrival time: 126
+Service time: 130
+Wait time: 4
+
+Cust name: Nevin Hawkins
+Balance: $327444
+Transaction: $838.38 Withdrawal
+Arrival time: 131
+Service time: 134
+Wait time: 3
+
+Cust name: Merideth Gray
+Balance: $38867.5
+Transaction: $484.22 Deposit
+Arrival time: 141
+Service time: 142
+Wait time: 1
+
+Cust name: Derek Shephard
+Balance: $200986
+Transaction: $1943.29 Withdrawal
+Arrival time: 150
+Service time: 152
+Wait time: 2
+
+Cust name: Mark Sloan
+Balance: $548524
+Transaction: $58.25 Deposit
+Arrival time: 154
+Service time: 154
+Wait time: 0
+
+Cust name: Richard Jackson
+Balance: $542.35
+Transaction: $43.23 Withdrawal
+Arrival time: 163
+Service time: 165
+Wait time: 2
+
+Cust name: Steve Martin
+Balance: $8651.16
+Transaction: $85.58 Deposit
+Arrival time: 173
+Service time: 175
+Wait time: 2
+
+Cust name: Bob Marley
+Balance: $77086.7
+Transaction: $8572.59 Withdrawal
+Arrival time: 181
+Service time: 183
+Wait time: 2
+
+Cust name: Bob Dylan
+Balance: $553.7
+Transaction: $85.22 Deposit
+Arrival time: 188
+Service time: 189
+Wait time: 1
+
+Cust name: Angus McGreedy
+Balance: $10727.3
+Transaction: $4958.58 Withdrawal
+Arrival time: 190
+Service time: 190
+Wait time: 0
+
+Cust name: Eric Clapton
+Balance: $8794.09
+Transaction: $658.25 Deposit
+Arrival time: 193
+Service time: 195
+Wait time: 2
+
+Cust name: John Mayer
+Balance: $52657.4
+Transaction: $5775.43 Withdrawal
+Arrival time: 197
+Service time: 200
+Wait time: 3
+
+Cust name: William Clinton
+Balance: $322465
+Transaction: $5846.98 Deposit
+Arrival time: 201
+Service time: 204
+Wait time: 3
+
+Cust name: Hillary Clinton
+Balance: $618213
+Transaction: $442.54 Withdrawal
+Arrival time: 210
+Service time: 214
+Wait time: 4
+
+Cust name: Donald Trump
+Balance: $17.21
+Transaction: $3.22 Deposit
+Arrival time: 219
+Service time: 221
+Wait time: 2
+
+Cust name: Michelle Obama
+Balance: $73494.6
+Transaction: $88156 Withdrawal
+Arrival time: 220
+Service time: 222
+Wait time: 2
+
+Cust name: Barack Obama
+Balance: $928175
+Transaction: $866552 Deposit
+Arrival time: 223
+Service time: 227
+Wait time: 4
+
+
+Teller 1 Reporting
+Transactions: 12
+Deposits: 7
+Withdrawals: 5
+
+
+Teller 2 Reporting
+Transactions: 14
+Deposits: 7
+Withdrawals: 7
+
+
+Teller 3 Reporting
+Transactions: 9
+Deposits: 4
+Withdrawals: 5
+
+Total Transactions for all Tellers:
+Total Deposits: 18
+Total Withdrawals: 17
+Total Transactions: 35
+
+
+Total Wait Time: 138
+Average Transactions:
+Teller 1: 0
+Teller 2: 0
+Teller 3: 0
+
